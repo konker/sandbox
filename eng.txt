@@ -1,4 +1,8 @@
 fififofum
 hello
 hello
+<<<<<<< HEAD
 badbye
+=======
+goodbye
+>>>>>>> 3270c423fba81fbdb01b634d2a3eae81f03c4c89
