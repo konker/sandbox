@@ -13,10 +13,6 @@ boom7
 boom8
 boom9
 boom10
-<<<<<<< HEAD
 boom11a
 boomt12
 boomt13
-=======
-boom11
->>>>>>> c94108d008836bdf7a4d19e888703020a4503dc7
