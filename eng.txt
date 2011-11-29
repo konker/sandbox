@@ -11,8 +11,4 @@ boom5
 boom6
 boom7
 boom8
-<<<<<<< HEAD
-boom9a
-=======
 boom9
->>>>>>> eaa091d82124edc3ac4b3ba9a0be5c972b6bb832
