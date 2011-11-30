@@ -1,0 +1,6 @@
+Notes
+------------------------------------------------------------------------------
+
+- How to daemonize syncilainen?
+    - seem to have some problems with subprocess when deamonized
+    - can we rely on upstart/launchd to do the daemonization?
