@@ -38,5 +38,7 @@ Notes
         - How to fix?
 
 - Does linux version do debug logging correctly?
-    - Maybe not..
+    - It seems not
+        - Displays the output format in a debug manner,
+          but seem to only be showing info level logging
 
