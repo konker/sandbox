@@ -1,2 +1,6 @@
+<<<<<<< .merge_file_2DXBZN
 qux11
 wop1
+=======
+qux14
+>>>>>>> .merge_file_gT08oL
