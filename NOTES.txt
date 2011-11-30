@@ -35,5 +35,6 @@ Notes
 
 - Does linux version need a ^C for pull_timer to work the first time?
     - maybe not
+
 - Does linux version do debug logging correctly?
 
