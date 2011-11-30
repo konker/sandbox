@@ -37,4 +37,4 @@ Notes
     - maybe not
 
 - Does linux version do debug logging correctly?
-
+    - Maybe not..
