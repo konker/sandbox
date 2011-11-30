@@ -23,5 +23,7 @@ Notes
 - Should we try to implement hg or bzr as an alternative to git?
     - At least to 'prove' the abstraction
 
-
+- Should there be a way to start a watch directory without creating a local and remote repository and configuring them both?
+    - probably not
+    - should be some documentation/example
 
