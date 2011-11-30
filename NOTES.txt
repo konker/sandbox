@@ -4,3 +4,20 @@ Notes
 - How to daemonize syncilainen?
     - seem to have some problems with subprocess when deamonized
     - can we rely on upstart/launchd to do the daemonization?
+
+- Need to refactor code to properly take into account the config file
+    - i.e. accomodate multiple watch directories, each with different configurations..
+        - currently:
+            "auto_pull_secs": 30,
+            "path": "~/WORKING/syncilainen/sandbox",
+            "notifier": {
+                "enabled": true,
+                "disable_after_n_errors": 3
+             },
+             "action": {
+                "class": "vcs",
+                "type": "git",
+                "remote": "origin"
+            }
+
+
