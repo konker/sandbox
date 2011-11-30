@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <<<<<<< .merge_file_2DXBZN
 qux11
 wop1
 =======
 qux14
 >>>>>>> .merge_file_gT08oL
+=======
+qux14
+>>>>>>> f170d5ef6be9f463668b85fdcbd4a708cbbbb6ee
