@@ -29,3 +29,4 @@ Notes
 
 - Should we add a push even when the status list is empty?
     - I think this is done?
+    - This should be done..
