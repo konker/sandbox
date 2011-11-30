@@ -20,4 +20,8 @@ Notes
                 "remote": "origin"
             }
 
+- Should we try to implement hg or bzr as an alternative to git?
+    - At least to 'prove' the abstraction
+
+
 
