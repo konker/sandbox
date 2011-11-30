@@ -1,2 +1,3 @@
 bar9
 The quick brown foo jumped over the lazy bar's socks and the wizard's sleeve.
+"Now what?", asked one of the lazy bars. 
