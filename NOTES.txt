@@ -45,3 +45,9 @@ Notes
 - Whhat is this actually good for?
     - a glorified notebook?
         - is it that glorified anyway?
+        - cannot be used without quite elaborate syncilainen setup:
+            - "install" syncilainen and dependencies
+            - clone git repo
+            - create/add entry to syncilainen.json
+            - start syncilainen
+
