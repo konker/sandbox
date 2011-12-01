@@ -67,6 +67,10 @@ Notes
     - i.e. embed a http server and have it generate some kind of indexes/links?
     _ personally I think this is a low priority, if not useless feature
 
+- Do we have a working daemonize?
+    - what about logging?
+
+- Hello?
 
 
 
