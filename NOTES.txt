@@ -51,3 +51,6 @@ Notes
             - create/add entry to syncilainen.json
             - start syncilainen
 
+- check out:
+    - https://github.com/bazaarlabs/gitdocs/
+    - http://sparkleshare.org/
