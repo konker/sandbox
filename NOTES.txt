@@ -55,4 +55,9 @@ Notes
     - https://github.com/bazaarlabs/gitdocs/ [ruby]
     - http://sparkleshare.org/ [also based on git, lots of native clients]
 
+- my USPs?
+    - could vary VCS?
+    
+- conflict resolution
+
 
