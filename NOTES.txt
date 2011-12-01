@@ -59,5 +59,8 @@ Notes
     - could vary VCS?
     
 - conflict resolution
+    - e.g. A: foo.txt B: foo.txt -> foo.txt foo[B].txt
+
+
 
 
