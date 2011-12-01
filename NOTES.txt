@@ -63,6 +63,9 @@ Notes
     - i.e. conflicting file gets moved to a new file name and the original preserved?
     - should there be any notificaition for conflicts?
 
+- Do we want to have a 'web view' of the watched directories?
+    - i.e. embed a http server and have it generate some kind of indexes/links?
+    _ personally I think this is a low priority, if not useless feature
 
 
 
