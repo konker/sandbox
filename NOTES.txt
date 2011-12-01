@@ -52,7 +52,7 @@ Notes
             - start syncilainen
 
 - check out:
-    - https://github.com/bazaarlabs/gitdocs/
-    - http://sparkleshare.org/
+    - https://github.com/bazaarlabs/gitdocs/ [ruby]
+    - http://sparkleshare.org/ [also based on git, lots of native clients]
 
 
