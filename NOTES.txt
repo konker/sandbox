@@ -62,7 +62,7 @@ Notes
     - e.g. A: foo.txt B: foo.txt -> foo.txt foo[B].txt
     - i.e. conflicting file gets moved to a new file name and the original preserved?
 
-
+..
 
 
 
