@@ -43,4 +43,5 @@ Notes
           but seem to only be showing info level logging
 
 - Whhat is this actually good for?
+    - a glorified notebook?
 
