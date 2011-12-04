@@ -1,2 +1,5 @@
 THERE IS A CONFLICT|3
+<<<<<<< HEAD
 THERE IS A CONFLICT|4
+=======
+>>>>>>> 0e9ff14b0b5afa6ca307f91bb81e5eba7bc833c0
